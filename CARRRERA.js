@@ -57,5 +57,3 @@ function dado()
 
     return valor;
 }
-//Idea 1: Que solo avanze segun lo que le falte
-//Idea 2: Que se pase pero que llegue a ganar
